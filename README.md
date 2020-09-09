@@ -1,6 +1,6 @@
 # EC2 Instance Metadata 
 
-This sciprt is used to get access key, secret key and session token from role attached to an instance.
+This script is used to get access key, secret key and session token from role attached to an instance.
 
 ## Prerequisites
 
